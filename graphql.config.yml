@@ -1,0 +1,5 @@
+schema: sample.graphql
+extensions:
+  endpoints:
+    sample:
+      url: http://localhost
